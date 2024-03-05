@@ -38,7 +38,7 @@ This task builds on your code from Part 1.
 The steps involved to obtain the check digit are:
 
 1. Multiply each digit in the NRIC number by its weight (See Table 1).
-2. Add the products from Step 1 together.
+2. Add the products from Step   1 together.
 3. If the first letter is T or G, add 4 to the total in Step 2.
 4. Divide the resulting sum in Step 2 by 11 and keep the remainder.
 5. Check the check digit against the table to obtain the alphabet (See Table 2).
